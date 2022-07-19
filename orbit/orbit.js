@@ -33,7 +33,7 @@ function drawStars() {
     ctx.stroke();
 
     // Closest to big star
-    ctx.fillStyle = 'whitesmoke';
+    ctx.fillStyle = 'lightyellow';
     ctx.strokeStyle = 'black';
     ctx.lineWidth = 2;
     ctx.beginPath();
@@ -43,7 +43,7 @@ function drawStars() {
     ctx.stroke(); 
 
     // 2nd closest to big star
-    ctx.fillStyle = 'whitesmoke';
+    ctx.fillStyle = 'lightgreen';
     ctx.strokeStyle = 'black';
     ctx.lineWidth = 2;
     ctx.beginPath();
@@ -53,7 +53,7 @@ function drawStars() {
     ctx.stroke();
 
     // Outer-most
-    ctx.fillStyle = 'whitesmoke';
+    ctx.fillStyle = 'lightblue';
     ctx.strokeStyle = 'black';
     ctx.lineWidth = 2;
     ctx.beginPath();
