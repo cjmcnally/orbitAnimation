@@ -1,4 +1,4 @@
-# orbitAnimation
+# Solar System Simulation
 
 
 ![5](https://github.com/user-attachments/assets/cf1dc433-18e7-4ca9-98d5-f76f203617b9)
